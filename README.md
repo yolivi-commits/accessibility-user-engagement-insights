@@ -1,4 +1,4 @@
-# 🏆 Accessibility Features - User Engagement Analysis
+# Accessibility Features - User Engagement Analysis
 
 This project analyzes **user engagement with accessibility features** using **Python (Pandas, Scipy), Tableau, and Jupyter Notebook** to uncover **accessibility trends and user behavior insights**. The study focuses on **data cleaning, exploratory data analysis (EDA), feature engineering, predictive modeling, and data visualization** to provide **actionable recommendations** for improving feature adoption and usability.
 
