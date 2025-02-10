@@ -60,7 +60,7 @@ This project analyzes **user engagement with accessibility features** using **Py
 
 ## 📊 **Tableau Dashboards**
 
-Click the image below to view **interactive Tableau dashboards**:
+These two dashboards analyze feature adoption trends and user engagement across demographics.
 
 ![Feature Usage - Dashboard](tableau_visualizations/feature_usage_screenshot.png)
 ![Enagagemnt Score Analysis - Dashboard](tableau_visualizations/enagement_score_screenshot.png)
@@ -97,7 +97,7 @@ Click the image below to view **interactive Tableau dashboards**:
 ## 🛠️ **Tools and Technologies**
 
 ✔ **Python (Pandas, NumPy, Matplotlib, Scipy)** → Data cleaning, EDA, feature engineering, predictive modeling.
-✔ **Tableau Public** → Interactive visualizations & dashboarding.
+✔ **Tableau** → Interactive visualizations & dashboarding.
 ✔ **Jupyter Notebook** → Code execution & structured analysis.
 
 ---
