@@ -2,6 +2,12 @@
 
 This project analyzes **user engagement with accessibility features** using **Python (Pandas, Scipy), Tableau, and Jupyter Notebook** to uncover **accessibility trends and user behavior insights**. The study focuses on **data cleaning, exploratory data analysis (EDA), feature engineering, predictive modeling, and data visualization** to provide **actionable recommendations** for improving feature adoption and usability.
 
+### Business Challenge: 
+User engagement with accessibility features varies across demographics and settings, impacting usability and adoption rates. Identifying feature adoption trends, engagement disparities, and user behavior is critical for optimizing accessibility tools, improving digital inclusivity, and ensuring equitable digital user experiences.
+
+### Problem Statement: 
+How can we analyze accessibility feature adoption across different user groups to identify engagement trends and optimize feature adoption strategies?
+
 ---
 
 ##  Table of Contents
