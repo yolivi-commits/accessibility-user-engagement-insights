@@ -4,7 +4,7 @@ This project analyzes **user engagement with accessibility features** using **Py
 
 ---
 
-## 📌 Table of Contents
+##  Table of Contents
 
 - [🎯 Objectives](#-objectives)
 - [📌 Key Findings](#-key-findings)
@@ -16,7 +16,7 @@ This project analyzes **user engagement with accessibility features** using **Py
 
 ---
 
-## 🎯 **Objectives**
+##  **Objectives**
 
 - **Analyze user engagement** with accessibility features across different user groups.
 - **Detect and handle missing values** and **outliers** in the dataset.
@@ -27,7 +27,7 @@ This project analyzes **user engagement with accessibility features** using **Py
 
 ---
 
-## 📌 Key Findings
+##  Key Findings
 
 ### **1️⃣ Data Cleaning & Preparation**
 
@@ -58,14 +58,14 @@ This project analyzes **user engagement with accessibility features** using **Py
 
 ---
 
-## 📊 **Tableau Dashboards**
+##  **Tableau Dashboards**
 
 These two dashboards analyze feature adoption trends and user engagement across demographics.
 
 ![Feature Usage - Dashboard](tableau_visualizations/feature_usage_screenshot.png)
 ![Enagagemnt Score Analysis - Dashboard](tableau_visualizations/enagement_score_screenshot.png)
 
-🔹 **Visualizes:**
+ **Visualizes:**
 
 - Feature engagement by user groups
 - Session duration trends
@@ -73,7 +73,7 @@ These two dashboards analyze feature adoption trends and user engagement across 
 
 ---
 
-## 🔍 **Analysis Breakdown**
+##  **Analysis Breakdown**
 
 ### **1️⃣ Data Cleaning & Outlier Handling**
 
@@ -94,7 +94,7 @@ These two dashboards analyze feature adoption trends and user engagement across 
 
 ---
 
-## 🛠️ **Tools and Technologies**
+##  **Tools and Technologies**
 
 ✔ **Python (Pandas, NumPy, Matplotlib, Scipy)** → Data cleaning, EDA, feature engineering, predictive modeling.
 ✔ **Tableau** → Interactive visualizations & dashboarding.
@@ -102,7 +102,7 @@ These two dashboards analyze feature adoption trends and user engagement across 
 
 ---
 
-## 📈 **Data Workflow**
+##  **Data Workflow**
 
 1. **Extract** → Loaded Excel dataset into **Pandas DataFrame**.
 2. **Transform** → Data cleaning, missing value handling, and feature engineering.
@@ -112,12 +112,12 @@ These two dashboards analyze feature adoption trends and user engagement across 
 
 ---
 
-## 🚀 **Future Improvements**
+##  **Future Improvements**
 
-✔ **Enhance predictive model performance** by exploring **Decision Trees and Support Vector Machines (SVM)** to improve classification and interpretability.  
+- **Enhance predictive model performance** by exploring **Decision Trees and Support Vector Machines (SVM)** to improve classification and interpretability.  
    - **Decision Trees** → A simple yet powerful model that **segments data based on feature importance**, making it highly **interpretable** for identifying key accessibility factors.  
    - **Support Vector Machines (SVM)** → Works well with **high-dimensional data and smaller datasets**, making it **ideal for structured user engagement data**. It helps **define clear decision boundaries** between engaged and non-engaged users.  
 
-✔ **Optimize dataset representation** by engineering additional features that capture deeper accessibility usage patterns.  
-✔ **Leverage A/B testing insights** to refine engagement strategies and measure the effectiveness of different accessibility features.  
-✔ **Develop automated reporting tools** to generate accessibility insights dynamically for stakeholders and decision-makers.  
+- **Optimize dataset representation** by engineering additional features that capture deeper accessibility usage patterns.  
+- **Leverage A/B testing insights** to refine engagement strategies and measure the effectiveness of different accessibility features.  
+- **Develop automated reporting tools** to generate accessibility insights dynamically for stakeholders and decision-makers.  
